@@ -1,0 +1,6 @@
+{
+  "name": "Stickman Archer: Zombie Siege",
+  "description": "Skill-based 2D stickman archery zombie defense game with slingshot physics, elemental arrows, upgrades, and full Android Kotlin + LibGDX APK source.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
